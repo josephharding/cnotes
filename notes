@@ -1,5 +1,14 @@
 12/25/13
 
+Started python
+classes start w/ capital letter
+
+git commands
+	git add <file> (* = all (-hidden))
+	git status = check what is to be moved
+	git commit
+	git push
+
 ls = list
 	-la = long, hidden list
 ln = link
