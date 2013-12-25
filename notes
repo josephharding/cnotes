@@ -1,0 +1,60 @@
+12/25/13
+
+ls = list
+	-la = long, hidden list
+ln = link
+
+officially l33t hax0r.
+
+vim:
+&& = and
+|| = or (be sure to include double [[]])
+
+apt-get = package manager, installs certain programs
+sudo = administrative privs (root)
+example: sudo apt-get install curl
+argument = user input
+
+in shell programming (vim):
+-eq = equals
+-ne = not equal to
+-lt = less than
+-le = less or equal
+-gt = greater than
+-ge = greater/equal
+
+bash profile
+notes/.bash_profile (need to make sim link from home directory)
+contains custom programs and aliases(shortcut names for servers)
+
+12/24/13
+VIM commands
+:w - saves vim file
+:q - quits
+:wq - save and quit
+u - undo
+gg - top of file
+shift g - bottom of file
+/<text> - search, n - next result, shift n - previous result
+ctrl d - pg down
+ctrl u - pg up
+dd - deletes line with cursor
+
+Terminal commands
+tab - autocomplete
+cd - change directory
+cd ~ - brings home
+cd .. - back one dir
+!! - repeats last command (pasting last command)
+vim - opens vim program, then name either opens or creates new
+ls - lists directory contents 
+clear - clears terminal window
+ssh <ip> - connects to ip
+pwd - shows current location
+find (file names)
+	. - in current directory
+	find . -name,-f(file) "*<text>" (star allows all files containing <text> to be shown)
+man - manual
+grep - finds text within files
+	grep . "<text>"
+	grep . -r "<text>*" (recursive -r searches in folders as well)
