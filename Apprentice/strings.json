@@ -1,0 +1,14 @@
+{
+"wake_text" : "\n\n\n      'WAKE UP, BOY!'\n",
+"wake_op_txt" : "Sit up and rub your eyes..",
+"sleep_op_txt" : "Roll over and slip back into wonderful sleeeee.... ZZzzZZ",
+
+"awake_text" : "\n      *As the aches and pains from yesterdays lessons return, you hear muffled cursing and the clatter of the charcoal shovel*\n      'COME, BOY! THIS FORGE IS FILTHY AND WE HAVE ORDERS TO FILL'\n",
+"dress_op_txt" : "Hurriedly throw on yesterday's work linens and apprentice apron",
+"retort_op_txt" : "'I cleaned it thoroughly last night, Master Raegon!'",
+
+"sleep_text" : "\n      *You are running through Briarthorn forest, chasing a silver fox. Brambles catch on your pants and slow you as the fox starts to slip away. With a desperate surge of power you break through the undergrowth and find yourself in a distantly familiar clearing.. As you struggle to remember how you know this place, the lone, massive oak tree in the center shudders. The long, gnarled branches begin reaching out in all directions as the trunk surges forth from the earth, spraying rock and soil into the air. The ground in front of you suddenly splits apart as the roots explode in size and you begin to fall..*\n      'BOY IF I HAVE TO YELL ONE MORE TIME YOU'LL BE STOKING THE FLAMES WITH YOUR BARE ARMS!'\n",
+"sleep2_op_txt" : "Lay in bed to ponder the odd dream.. Why was that clearing so familiar?.. zzZZzz",
+"wake2_op_txt" : "Can't keep master Raegon waiting.. must get ready"
+
+}

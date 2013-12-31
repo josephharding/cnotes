@@ -1,0 +1,109 @@
+{"config" :
+	{"character" : 
+		[
+		{
+		"name" : "blacksmith", 		
+		"health" : "200",
+		"playfav" : "100"
+		},
+		{	
+		"name" : "bandit",
+		"health" : "25",
+		"playfav" : "10"
+		}
+		]
+	,
+	"encounter" :
+		[
+		{
+		"name" : "start",
+		"text" : "wake_text",
+		"choice" : "wake_choice"
+		},
+		{
+		"name" : "awake",
+		"text" : "awake_text",
+		"choice" : "awake_choice"
+		},
+		{
+		"name" : "sleep",
+		"text" : "sleep_text",
+		"choice" : "sleep_choice"
+		}
+		]
+	,
+	"choice" :
+		[
+		{
+		"name" : "wake_choice",
+		"options" :
+			[
+			"sleep_op",
+			"wake_op"
+			]
+		},
+		{
+		"name" : "awake_choice",
+		"options" :
+                        [                       
+			"dress_op", 
+			"retort_op"
+			]
+		},
+		{
+		"name" : "sleep_choice",
+		"options" : 
+			[                       
+			"wake2_op",    
+			"sleep2_op"
+			]
+		}
+		]		
+	,
+	"option" :
+		[
+		{
+		"name" : "sleep_op",
+		"text" : "sleep_op_txt",
+		"action" : "sleep"
+		},
+		{
+		"name" : "wake_op",
+		"text" : "wake_op_txt",
+		"action" : "awake"
+		},
+		{
+		"name" : "dress_op",
+		"text" : "dress_op_txt",
+		"action" : "gameover"
+		},
+		{
+		"name" : "retort_op",
+		"text" : "retort_op_txt",
+		"action" : "gameover"
+		},
+		{
+		"name" : "sleep2_op",
+		"text" : "sleep2_op_txt",
+		"action" : "gameover"
+		},
+		{
+		"name" : "wake2_op",
+		"text" : "wake2_op_txt",
+		"action" : "awake"
+		}
+		]
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
