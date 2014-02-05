@@ -1,3 +1,13 @@
+2/4/14
+
+dir is the equivalent to ls in the cmd window
+
+commonly used Python modules:
+sys -- access to exit(), argv, stdin, stdout, ...
+re -- regular expressions
+os -- operating system interface, file system
+
+
 12/30/13
 
 for loops = for each
